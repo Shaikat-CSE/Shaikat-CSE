@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaikat-CSE
-- 👀 I’m interested in machine learning / deep learning / AI / backend web development
+- 👀 I’m interested in Machine Learning / Deep Learning / AI / Backend Web Development
 - 🌱 I’m currently working with python.
-- 💞️ I’m looking to collaborate on: sure!
+- 💞️ I’m looking to collaborate on: ML/DL/AI Projects
 - 📫 How to reach me: my email.
 
 <!---
