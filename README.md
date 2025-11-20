@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=00D9F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shaikat+Sharma+👋;Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Developer;Python+%7C+Django+%7C+React+Expert;I+Build+AI-Powered+Web+Applications" alt="Typing SVG" />
+  <img src="https://i.imgur.com/ZQZqH8p.gif" width="800"/>
 </p>
+
 
 ---
 
@@ -30,6 +31,7 @@ I'm a **Full Stack Software Engineer** passionate about building **scalable web 
 
 ### 🎨 **Frontend**
 ![React](https://img.shields.io/badge/React-1F232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E14F24?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B5?style=for-the-badge&logo=css3&logoColor=white)
 
