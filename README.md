@@ -60,8 +60,11 @@ I'm a **Full Stack Software Engineer** passionate about building **scalable web 
 
 ### 💬 **CodemyBD.com — Full-Stack Web Application**
 Engineered a production-grade LMS with Next.js 15 (App Router) frontend and Django 5 REST API backend
+
 Designed relational schemas in PostgreSQL and integrated Redis for caching & session performance
+
 Containerized the entire stack using Docker and deployed on a Linux VPS
+
 Used AI-assisted development for architecture planning, debugging, and feature acceleration
 
 🔗 **Live:** https://codemybd.com  
