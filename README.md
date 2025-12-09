@@ -63,6 +63,7 @@ Engineered a production-grade LMS with Next.js 15 (App Router) frontend and Djan
 Designed relational schemas in PostgreSQL and integrated Redis for caching & session performance
 Containerized the entire stack using Docker and deployed on a Linux VPS
 Used AI-assisted development for architecture planning, debugging, and feature acceleration
+
 🔗 **Live:** https://codemybd.com  
 
 ---
