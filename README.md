@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=00D9F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shaikat+S.+👋;Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Developer;Python+%7C+Django+%7C+React+Expert;I+Build+AI-Powered+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=00D9F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shaikat+S.+👋;Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Developer;Python+%7C+Django+%7C+Next.js+Expert;I+Build+AI-Powered+Web+Applications" />
 </p>
 
 ---
