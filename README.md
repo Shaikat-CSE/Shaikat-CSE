@@ -8,7 +8,7 @@
 # 🚀 **About Me**
 I'm a **Full Stack Software Engineer** passionate about building **scalable web systems**, **AI-powered applications**, and **real-world software products** that solve problems at scale.
 
-- 💼 **AI Software Developer @Sugarclass**  
+- 💼 **AI Software Developer @SugarclassLimited**  
 - 🎓 **Senior Instructor @ EDGE-CSE CUET** (trained 1000+ learners)  
 - 🤖 **AI/ML Engineer** (TensorFlow, PyTorch, Scikit-Learn)  
 - 🔥 Love building: AI apps · Automation tools · Dashboards · Chatbots  
